@@ -1,0 +1,38 @@
+[
+  {
+    "id": "123",
+    "title": "Transaction 1",
+    "amount": "100.5",
+    "date": "2018-01-01"
+  },
+  {
+    "id": "456",
+    "title": "Transaction 2",
+    "amount": "200.5",
+    "date": "2018-01-02"
+  },
+  {
+    "id": "789",
+    "title": "Transaction 3",
+    "amount": "300.5",
+    "date": "2018-01-03"
+  },
+  {
+    "id": "012",
+    "title": "Transaction 4",
+    "amount": "400.5",
+    "date": "2018-01-04"
+  },
+  {
+    "id": "345",
+    "title": "Transaction 5",
+    "amount": "500.5",
+    "date": "2018-01-05"
+  },
+  {
+    "id": "123",
+    "title": "Transaction 1",
+    "amount": "100.5",
+    "date": "2018-01-01"
+  }
+]
